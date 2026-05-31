@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: quiz-service
+
+
+
+server:
+  port: 9011
+
+  
+
+
