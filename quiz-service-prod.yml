@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: quiz-service
+
+config:
+  value: "quiz-service , we are in prod env"
+
+server:
+  port: 9012
+
+  
+
+
