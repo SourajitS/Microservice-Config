@@ -2,7 +2,8 @@ spring:
   application:
     name: quiz-service
 
-
+config:
+  value: "quiz-service , we are in dev env"
 
 server:
   port: 9011
