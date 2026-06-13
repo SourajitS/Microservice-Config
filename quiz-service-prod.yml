@@ -3,7 +3,7 @@ spring:
     name: quiz-service
 
 config:
-  value: "quiz-service , we are in prod env"
+  value: "quiz-service , we are in prod env45"
 
 server:
   port: 9012
