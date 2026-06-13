@@ -3,7 +3,7 @@ spring:
     name: quiz-service
 
 config:
-  value: "quiz-service , we are using bus refresh"
+  value: "{cipher}6042dc6cd46d4cae97d6782ce094f264c13e2c345f82adbb9cc44d8564c89006587c331fef7fdd0123f4ecd6813b30ba51e597b4efa3455e63ed18320b181a1b37158a9b7084535f8660c6579fdf3d73"
 
 server:
   port: 9012
